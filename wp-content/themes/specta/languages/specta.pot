@@ -1,0 +1,502 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Specta version 1.0\n"
+"POT-Creation-Date: 2018-07-23 11:47+0500\n"
+"PO-Revision-Date: 2018-07-23 11:47+0500\n"
+"Last-Translator: amir <amirkhan0617@gmail.com>\n"
+"Language-Team: Template Path <muhibbur@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;_n;_x\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:18
+msgid "ERROR: We cannott seem to find what you are looking for ."
+msgstr ""
+
+#: ../404.php:19
+msgid ""
+"Regrud going asininely angelic less lighted bought flung reindeer however "
+"irrespective <br> solemnly as here onthe listlessly thus famous."
+msgstr ""
+
+#: ../404.php:20
+msgid "back to home"
+msgstr ""
+
+#: ../comments.php:21
+msgid "Comments"
+msgstr ""
+
+#: ../comments.php:37
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:38
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:39
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:43
+msgid "Comments are closed."
+msgstr ""
+
+#: ../functions.php:34
+msgid "Main Menu"
+msgstr ""
+
+#: ../functions.php:35
+msgid "Footer Menu"
+msgstr ""
+
+#: ../functions.php:82
+msgid "Default Sidebar"
+msgstr ""
+
+#: ../functions.php:84 ../functions.php:103
+msgid "Widgets in this area will be shown on the right-hand side."
+msgstr ""
+
+#: ../functions.php:91
+msgid "Footer Sidebar"
+msgstr ""
+
+#: ../functions.php:93
+msgid "Widgets in this area will be shown in Footer Area."
+msgstr ""
+
+#: ../functions.php:101
+msgid "Blog Listing"
+msgstr ""
+
+#: ../functions.php:196 ../functions.php:197
+msgid "on"
+msgstr ""
+
+#: ../includes/library/functions.php:26 ../includes/library/widgets.php:69
+#: ../includes/library/widgets.php:282
+msgid "All Categories"
+msgstr ""
+
+#: ../includes/library/functions.php:50
+msgid "No Sidebar"
+msgstr ""
+
+#: ../includes/library/functions.php:115
+msgid "Home"
+msgstr ""
+
+#: ../includes/library/functions.php:163 ../includes/library/functions.php:164
+#: ../includes/library/functions.php:165 ../includes/library/functions.php:166
+msgid "Archive for "
+msgstr ""
+
+#: ../includes/library/functions.php:167
+msgid "Search Results for "
+msgstr ""
+
+#: ../includes/library/functions.php:168
+msgid "404 - Not Found"
+msgstr ""
+
+#: ../includes/library/functions.php:186
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: ../includes/library/functions.php:213
+msgid "You must agreed the policy"
+msgstr ""
+
+#: ../includes/library/functions.php:223
+msgid "Registration Successful - An email is sent"
+msgstr ""
+
+#: ../includes/library/functions.php:227
+msgid "Username or email already exists.  Password inherited."
+msgstr ""
+
+#: ../includes/library/functions.php:249
+msgid "Reply"
+msgstr ""
+
+#: ../includes/library/functions.php:284
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: ../includes/library/functions.php:299
+msgid "Your email address will not be published."
+msgstr ""
+
+#: ../includes/library/functions.php:304
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../includes/library/functions.php:305
+msgid "Cancel reply"
+msgstr ""
+
+#: ../includes/library/functions.php:306
+msgid "Send Comment "
+msgstr ""
+
+#: ../includes/library/functions.php:332
+msgid "Leave a Comment"
+msgstr ""
+
+#: ../includes/library/functions.php:621
+msgid "Loading..."
+msgstr ""
+
+#: ../includes/library/widgets.php:10
+msgid "Specta Latest Posts"
+msgstr ""
+
+#: ../includes/library/widgets.php:10
+msgid "Show the latest posts"
+msgstr ""
+
+#: ../includes/library/widgets.php:54
+msgid "LATEST POSTS"
+msgstr ""
+
+#: ../includes/library/widgets.php:59 ../includes/library/widgets.php:272
+msgid "Title: "
+msgstr ""
+
+#: ../includes/library/widgets.php:63 ../includes/library/widgets.php:276
+msgid "No. of Posts:"
+msgstr ""
+
+#: ../includes/library/widgets.php:68 ../includes/library/widgets.php:281
+#: ../single-bunch_projects.php:72 ../single-bunch_projects.php:162
+#: ../single-bunch_projects.php:236 ../single-bunch_projects.php:344
+msgid "Category"
+msgstr ""
+
+#: ../includes/library/widgets.php:102
+msgid "Specta Abous Us"
+msgstr ""
+
+#: ../includes/library/widgets.php:102
+msgid "Show the information about company"
+msgstr ""
+
+#: ../includes/library/widgets.php:143 ../includes/library/widgets.php:363
+msgid "Title:"
+msgstr ""
+
+#: ../includes/library/widgets.php:147
+msgid "Content:"
+msgstr ""
+
+#: ../includes/library/widgets.php:164
+msgid "Specta Footer Logo"
+msgstr ""
+
+#: ../includes/library/widgets.php:164
+msgid "Show Specta Footer Logo"
+msgstr ""
+
+#: ../includes/library/widgets.php:206
+msgid "Footer Logo Url: "
+msgstr ""
+
+#: ../includes/library/widgets.php:222
+msgid "Specta Services"
+msgstr ""
+
+#: ../includes/library/widgets.php:222
+msgid "Show Services"
+msgstr ""
+
+#: ../includes/library/widgets.php:267
+msgid "SERVICES"
+msgstr ""
+
+#: ../includes/library/widgets.php:312
+msgid "Specta Social Media"
+msgstr ""
+
+#: ../includes/library/widgets.php:312
+msgid "Show Social Media & Copy Right Section"
+msgstr ""
+
+#: ../includes/library/widgets.php:358
+msgid "Show Social Icons:"
+msgstr ""
+
+#: ../includes/library/widgets.php:367
+msgid "Copyright:"
+msgstr ""
+
+#: ../includes/loader.php:152 ../includes/loader.php:153
+msgid "Theme Options"
+msgstr ""
+
+#: ../includes/modules/header_v1.php:81 ../includes/modules/header_v2.php:80
+#: ../includes/modules/header_v4.php:62
+#, php-format
+msgid "%d"
+msgstr ""
+
+#: ../includes/modules/shortcodes/blog_grid.php:31
+#: ../includes/modules/shortcodes/latest_blog.php:37
+msgid "read more"
+msgstr ""
+
+#: ../includes/modules/shortcodes/blog_grid.php:39
+msgid "load more"
+msgstr ""
+
+#: ../includes/modules/shortcodes/portfolio_filteration.php:64
+#: ../includes/modules/shortcodes/portfolio_full_width_filteration.php:66
+#: ../includes/modules/shortcodes/portfolio_three_col_filteration.php:67
+#: ../includes/modules/shortcodes/projects_masonary5.php:92
+msgid "Show All Works"
+msgstr ""
+
+#: ../includes/modules/shortcodes/pricing_plans.php:4
+msgid "recommended"
+msgstr ""
+
+#: ../includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: ../includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:912
+#: ../includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2618
+#: ../includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1019
+#: ../includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: ../includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2427
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: ../includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: ../includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: ../includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2567
+msgid "unknown"
+msgstr ""
+
+#: ../includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../includes/thirdparty/tgm-plugin-activation/plugins.php:63
+msgid "Theme Support (Required)"
+msgstr ""
+
+#: ../includes/thirdparty/tgm-plugin-activation/plugins.php:74
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../includes/thirdparty/tgm-plugin-activation/plugins.php:85
+msgid "KingComposer"
+msgstr ""
+
+#: ../includes/thirdparty/tgm-plugin-activation/plugins.php:90
+msgid "Contact Form 7"
+msgstr ""
+
+#: ../includes/thirdparty/tgm-plugin-activation/plugins.php:96
+msgid "Woocommerce"
+msgstr ""
+
+#: ../includes/vc_map.php:6
+msgid "bbPress Forums"
+msgstr ""
+
+#: ../includes/vc_map.php:9
+msgid "Jollyall"
+msgstr ""
+
+#: ../includes/vc_map.php:16
+msgid "Forum"
+msgstr ""
+
+#: ../includes/vc_map.php:177
+msgid "Container"
+msgstr ""
+
+#: ../includes/vc_map.php:180
+msgid "Choose whether you want to add a container before row or not."
+msgstr ""
+
+#: ../index.php:28
+msgid "Blog"
+msgstr ""
+
+#: ../page.php:52 ../single.php:74
+msgid "Pages: "
+msgstr ""
+
+#: ../search.php:63
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../searchform2.php:3
+msgid "Search for:"
+msgstr ""
+
+#: ../single-bunch_projects.php:77 ../single-bunch_projects.php:167
+#: ../single-bunch_projects.php:245 ../single-bunch_projects.php:349
+msgid "launch date"
+msgstr ""
+
+#: ../single-bunch_projects.php:82 ../single-bunch_projects.php:172
+#: ../single-bunch_projects.php:252 ../single-bunch_projects.php:354
+msgid "tags"
+msgstr ""
+
+#: ../single-bunch_projects.php:87 ../single-bunch_projects.php:177
+#: ../single-bunch_projects.php:259 ../single-bunch_projects.php:359
+msgid "Share"
+msgstr ""
+
+#: ../tpl-comming_soon.php:23
+msgid "2019/8/17"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:19
+msgid "Cart Totals"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:24
+msgid "Subtotal"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:61 ../woocommerce/cart/cart.php:35
+msgid "Total"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:32
+msgid "Product"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:33
+msgid "Price"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:34
+msgid "Quantity"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:91
+msgid "Available on backorder"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:138
+msgid "Coupon:"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:143
+msgid "Update cart"
+msgstr ""
+
+#: ../woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: ../woocommerce/checkout/form-checkout.php:45
+msgid "Your order"
+msgstr ""
+
+#: ../woocommerce/checkout/payment.php:33
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: ../woocommerce/checkout/payment.php:33
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: ../woocommerce/checkout/payment.php:40
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: ../woocommerce/checkout/payment.php:41
+msgid "Update totals"
+msgstr ""
+
+#: ../woocommerce/single-product/related.php:31
+msgid "Related Products"
+msgstr ""

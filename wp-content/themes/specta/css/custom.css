@@ -1,0 +1,73 @@
+.kc_row .kc_col-sm-12{
+ padding-left:0px !important;
+ padding-right:0px !important; 
+}
+.pt-0{
+	padding-top:0px !important;
+}
+.admin-bar .fixed-header, .admin-bar .main-header .main-box,
+.admin-bar .hidden-bar.right-align.visible-sidebar {
+ top:32px;
+}
+
+.sidebar-page-container .comments-area .specta_theme .specta_theme {
+    margin-left: 70px;
+}
+
+.product-details .basic-details .details-header .rating span.count, .woocommerce-review-link {
+    color: #e54761;
+}
+
+.admin-bar .sticky-header{
+ top:32px;
+}
+.sidebar-page-container .blog-single .news-block-three .inner-box .lower-content .post-meta{
+	margin-bottom:15px;
+}
+
+.contact-form .form-group input[type="submit"]{
+	margin:0 auto;
+}
+
+.contact-form .form-group {
+    position: relative;
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
+.specta_theme .comment-form .group-title{
+	margin-bottom:0px;
+}
+.specta_theme .comment-form h3{
+	font-size:26px;
+}
+.pb-45{
+	margin-bottom:45px;
+} 
+button.button:disabled, .woocommerce button.button[disabled]:disabled{
+	color:#e54761 !important;
+}
+.woocommerce .sp-product-details .up-sells{
+	padding:0 15px;
+}
+.woocommerce .sp-product-details .up-sells h2{
+	color: #333333;
+	font-family: 'Raleway', sans-serif;
+	font-size: 24px;
+	font-weight: 600;
+	line-height: 50px;
+	margin-bottom:15px;
+}
+.woocommerce div.product form.cart .variations label{
+	color:#303030;
+	font-size:15px;
+	margin-top:10px;
+}
+.woocommerce .woocommerce-variation-price{
+	margin-bottom:20px;
+}
+.post-meta .post-categories{
+	display:inline-block;
+}
+.news-block-three .inner-box .lower-content h3 a{
+	font-size:24px;
+}

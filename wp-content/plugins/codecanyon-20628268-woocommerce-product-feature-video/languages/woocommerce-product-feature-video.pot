@@ -1,0 +1,453 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Product Feature Video\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-25 05:23+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: woocommerce-product-feature-video-main.php:26
+msgid ""
+"<div class=\"error notice\"><p>This plugin requires <a href=\"http:"
+"//wordpress.org/extend/plugins/woocommerce/\">WooCommerce</a> plugin to be "
+"installed and active!</p></div>"
+msgstr ""
+
+#: woocommerce-product-feature-video-admin.php:125
+msgid "Add Dailymotion Video Here"
+msgstr ""
+
+#: woocommerce-product-feature-video-admin.php:150
+msgid "Add Self Hosted Video Here"
+msgstr ""
+
+#: woocommerce-product-feature-video-admin.php:100
+msgid "Add Vimeo Video Here"
+msgstr ""
+
+#: woocommerce-product-feature-video-admin.php:75
+msgid "Add Youtube Video Here"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:396
+msgid "Allow auto Play"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:293
+msgid "Allow auto play vimeo video on shop or single product page"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:290
+#: woocommerce-product-feature-video-setting.php:534
+msgid "Allow Autoplay"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:399
+msgid "Allow Dailymotion video to autoplay"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:383
+msgid "Allow Dailymotion video to fullscreen control enable/disable"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:415
+msgid "Allow Dailymotion video to mute once load"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:102
+#: woocommerce-product-feature-video-setting.php:274
+#: woocommerce-product-feature-video-setting.php:380
+msgid "Allow FullScreen Play"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:537
+msgid "Allow SelfHosted video to autoplay"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:277
+msgid "Allow vimeo video to fullscreen control enable/disable"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:120
+msgid "Auto Play"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:123
+msgid "Check to Autoplay Video on Product Single Page when your vist"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:105
+msgid "Check to hide full screen Video option"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:323
+msgid "Container of Single product page vimeo video in % (default 40%)"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:206
+msgid "Container of Single product page youtube video in % (default 40%)"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:670
+msgid "Container width in shop page"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:474
+msgid "Container Width single product page"
+msgstr ""
+
+#: woocommerce-product-feature-video-admin.php:52
+msgid "Daily Motion"
+msgstr ""
+
+#: woocommerce-product-feature-video-front.php:118
+msgid "Daily Motion Popup"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:371
+msgid "Daily Motion Settings"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:502
+msgid "Daily Motion video popup Enable/Disable"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:53
+msgid "Daily Motion Video Settings"
+msgstr ""
+
+#: woocommerce-product-feature-video-admin.php:81
+#: woocommerce-product-feature-video-admin.php:106
+#: woocommerce-product-feature-video-admin.php:131
+#: woocommerce-product-feature-video-admin.php:161
+msgid "Delete Video"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:687
+msgid "Enable self hosted video popup on shop page"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:684
+msgid "Enable selfhosted popup"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:351
+msgid "Enable the video popu on shop page"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:505
+msgid "Enable the video popup on shop page"
+msgstr ""
+
+#: woocommerce-product-feature-video-admin.php:21
+msgid "Feature Video "
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:19
+msgid "Feature Video Setting"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:598
+msgid "Fluid (black border removed)"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:614
+msgid "Height for (video) Single Product Page"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:656
+msgid "Height in shop page"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:460
+msgid "Height of Dailymotion Single Product Page"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:463
+msgid "Height of dailymotion video on single product page in pixels ( 300px)"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:659
+msgid "Height of selfhosted video on shop page in pixels ( 300px)"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:617
+msgid "Height of selfhosted video on single product page in pixels ( 300px)"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:491
+msgid "Height of video on shop page"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:488
+msgid "Height of Video Shop page"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:306
+msgid "Height of Vimeo Shop Page"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:334
+msgid "Height of Vimeo Single Product Page"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:309
+msgid "Height of vimeo video on shop/catalog page in pixels ( 300px)"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:337
+msgid "Height of vimeo video on single product page in pixels ( 300px)"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:188
+msgid "Height of youtube frame"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:218
+msgid "Height of Youtube Shop Page"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:221
+msgid "Height of youtube video on shop/catalog page in pixels ( 300px)"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:140
+msgid "Hide Or Show video Controls in Single Page"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:585
+msgid "Hide video controls selfhosted"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://motif-creatives.com"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://motif-creatives.com/"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:569
+msgid "Loop for video"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:73
+msgid "Motif Feature Video Woocommerce Plugin."
+msgstr ""
+
+#. Author of the plugin
+msgid "motifcreatives"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:553
+msgid "Mute selfhosted video"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:550
+msgid "Mute Video"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:412
+msgid "Mute Volume on load"
+msgstr ""
+
+#: woocommerce-product-feature-video-admin.php:127
+msgid ""
+"Please Add DailyMotion Video Id here e.g http://www.dailymotion."
+"com/embed/video/=<span style=\"color:red;\">34423456</span>"
+msgstr ""
+
+#: woocommerce-product-feature-video-admin.php:102
+msgid ""
+"Please Add Vimeo Video Id here e.g https://www.vimeo.com/video/=<span "
+"style=\"color:red;\">34423456</span>"
+msgstr ""
+
+#: woocommerce-product-feature-video-admin.php:77
+msgid ""
+"Please Add Youtube Video Id here e.g https://www.youtube.com/watch?v=<span "
+"style=\"color:red;\">j_jvPsdfrs4</span>"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:33
+msgid "Plugin Options - Powered by Motif Creatives Group"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:601
+msgid "Remove black border from video"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:81
+#: woocommerce-product-feature-video-setting.php:250
+msgid "Save Changes"
+msgstr ""
+
+#: woocommerce-product-feature-video-admin.php:49
+msgid "Select Video Type"
+msgstr ""
+
+#: woocommerce-product-feature-video-admin.php:53
+msgid "Self Hosted"
+msgstr ""
+
+#: woocommerce-product-feature-video-front.php:149
+msgid "Self Hosted Popup"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:525
+msgid "Self hosted Settings"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:59
+msgid "Self Hosted Video Settings"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:75
+msgid "Settings Saved!"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:444
+msgid "Show Related video"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:157
+msgid "Show related video at the end of video"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:447
+msgid "Show related video once play"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:154
+msgid "Show Related Videos"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:171
+msgid "Show title on Videos"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:137
+msgid "Show Video Controls"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:428
+msgid "Show Video Information"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:431
+msgid "Show video information once play"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:236
+msgid "Show video popup on shop page or not"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:174
+msgid "Show/Hide video title on videos..?"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This Motif awesome plugin can add the youtube video as a feature thumbnail "
+"instead of picture"
+msgstr ""
+
+#: woocommerce-product-feature-video-admin.php:156
+msgid "Upload Video"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:582
+msgid "Video Controls"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:566
+msgid "Video Loop"
+msgstr ""
+
+#: woocommerce-product-feature-video-admin.php:51
+msgid "Vimeo"
+msgstr ""
+
+#: woocommerce-product-feature-video-front.php:94
+msgid "Vimeo Popup"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:265
+msgid "Vimeo Settings"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:348
+msgid "Vimeo video popup Enable/Disable"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:47
+msgid "Vimeo Video Settings"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:628
+msgid "Width for (video) Single Product Page"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:642
+msgid "Width in shop page"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:477
+msgid "Width of container for daiilymotion video single product page"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:673
+msgid "Width of selfhosted video container on single product page"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:645
+msgid "Width of selfhosted video on shop page in pixels ( 300px)"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:631
+msgid "Width of selfhosted video on single product page in pixels ( 300px)"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:320
+msgid "Width of Vimeo Container"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:203
+msgid "Width of youtube Container"
+msgstr ""
+
+#. Name of the plugin
+msgid "Woocommerce Product Feature Video"
+msgstr ""
+
+#: woocommerce-product-feature-video-admin.php:50
+msgid "Youtube"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:92
+msgid "Youtube Settings"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:191
+msgid "Youtube Video Frame height in pixels (300px)"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:233
+msgid "Youtube Video Popup Enable/Disable"
+msgstr ""
+
+#: woocommerce-product-feature-video-setting.php:41
+msgid "Youtube Video Settings"
+msgstr ""
+
+#: woocommerce-product-feature-video-front.php:65
+msgid "Youtube Vidop Popup"
+msgstr ""

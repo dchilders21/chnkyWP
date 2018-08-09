@@ -1,0 +1,43 @@
+@media only screen and (max-width: 962px) {
+  .feature_video_container{
+    width: 100% !important;
+  }
+}
+.feature_video_container {
+    width: 40%;
+    float: left;
+    margin-right: 30px;
+}
+.fv_frontend_embed iframe { 
+    width: 100%;
+}
+.motif_gall_images {
+    width: 100%;
+}
+.motif_gall_images ul {
+    margin: 20px 0px;
+}
+.motif_gall_images ul li {
+    display: inline-block;
+    margin-right: 10px;
+    width: 60px;
+}
+.motif_gall_images ul li a img {
+    border-radius: 0px;
+}
+a#icon-popup-youtube img {
+    width: 45px;
+}
+.motif_youtube .feature_video_container,
+.motif_vimo .feature_video_container,
+.motif_dailymo .feature_video_container {
+    display: block !important;
+}
+.fv_frontend_embed {
+    position: relative;
+    top: -30px;
+}
+.vvdiopopup_btn {
+      color: white !important;
+    background: rebeccapurple !important;
+}
